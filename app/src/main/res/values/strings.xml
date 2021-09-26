@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiApp</string>
+
+    <string name="txt_titulo">REGISTRO USUARIOS</string>
+    <string name="txt_usuario">Nombre</string>
+    <string name="txt_pass">Password</string>
+    <string name="button">INGRESAR</string>
+
+</resources>
